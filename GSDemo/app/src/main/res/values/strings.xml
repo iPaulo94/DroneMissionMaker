@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Drone mission maker</string>
+    <string name="title_activity_demo">Drone mission maker</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="product_information">Product Information</string>
+    <string name="connection_loose">Status: No Product Connected</string>
+    <string name="sdk_version">DJI SDK Version: 4.0.2</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_slide1">What about how to fly?</string>
+    <string name="desc_slide1">You must know just 4 more steps to start!</string>
+    <string name="title_slide2">Locate button</string>
+    <string name="desc_slide2">Press it in order to get your location.</string>
+    <string name="title_slide3">Press Add , tap the map</string>
+    <string name="desc_slide3">Do not forget to press Exit when your mission is ready.</string>
+    <string name="desc_slide4">Set your altitude, speed and other options available.</string>
+    <string name="title_slide5">Press Upload</string>
+    <string name="desc_slide5">Now your mission is ready, Start and enjoy!</string>
+    <string name="title_slide4">Press Configure</string>
+
+    <string name="title_slide1c">WiFi Connection Procedure</string>
+    <string name="desc_slide1c">Step 1: Turn on the remote controller</string>
+    <string name="title_slide2c">WiFi Connection Procedure</string>
+    <string name="desc_slide2c">Step 2: Connect mobile device to the WiFi network created by the remote controller</string>
+    <string name="title_slide3c">WiFi Connection Procedure</string>
+    <string name="desc_slide3c">Step 3: Turn on the aircraft and wait until the remote controller has connected to the Aircraft. Then run the app </string>
+
+    <string name="title_slide4c">USB Connection</string>
+    <string name="desc_slide4c">Step 1: Turn on the remote controller</string>
+    <string name="title_slide5c">USB Connection</string>
+    <string name="desc_slide5c">Step 2: Turn on the aircraft and wait until the remote controller has connected to the Aircraft.</string>
+    <string name="title_slide6c">USB Connection</string>
+    <string name="desc_slide6c">Step 3: Connect your mobile via USB to the remote controller. Then run the app </string>
+</resources>

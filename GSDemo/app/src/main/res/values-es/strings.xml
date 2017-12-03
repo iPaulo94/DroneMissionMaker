@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GSDemo</string>
+    <string name="connection_loose">Estado : Producto sin conectar</string>
+    <string name="desc_slide1">Solo 4 pasos más a saber!</string>
+    <string name="desc_slide2">Púlsalo para obtener tus coordenadas</string>
+    <string name="desc_slide3">No olvides pulsar el boton Exit al acabar</string>
+    <string name="desc_slide5">Tu misión está lista, Inicia y disfruta!</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="next">Siguiente</string>
+    <string name="product_information">Información del producto</string>
+    <string name="sdk_version">DJI SDK Version: 4.0.2</string>
+    <string name="skip">Saltar</string>
+    <string name="start">Empezar</string>
+    <string name="title_activity_demo">GSDemoActivity</string>
+    <string name="title_slide1">¿Y cómo volamos?</string>
+    <string name="title_slide2">Botón \"Locate\"</string>
+    <string name="title_slide3">Pulsa \"Add\", toca el mapa</string>
+    <string name="title_slide5">Pulsa \"Upload\"</string>
+    <string name="title_slide4">Pulsa \"Configure\"</string>
+    <string name="desc_slide4">Configura tu altitud, velocidad y resto de opciones.</string>
+    <string name="desc_slide1c">Paso 1: Enciende el mando</string>
+    <string name="desc_slide2c">Paso 2: Conecta el móvil a la red WiFi creada por el mando</string>
+    <string name="desc_slide3c">Enciende el dron y espera a que se conecte el mando. Después ejecuta la aplicación.</string>
+    <string name="title_slide1c">Conexión vía WiFi</string>
+    <string name="title_slide2c">Conexión vía WiFi</string>
+    <string name="title_slide3c">Conexión vía WiFi</string>
+    <string name="desc_slide4c">Enciende el mando</string>
+    <string name="desc_slide5c">Enciende el dron y espera a que se conecte al dron.</string>
+    <string name="desc_slide6c">Conecta tu móvil vía USB al mando. Después ejecuta la aplicación.</string>
+    <string name="title_slide4c">Conexión vía USB</string>
+    <string name="title_slide5c">Conexión vía USB</string>
+    <string name="title_slide6c">Conexión vía USB</string>
+</resources>
